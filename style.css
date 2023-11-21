@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(66, 129, 129);
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  margin: auto;
+  text-align: center;
+  height: 100vh;
+  width: auto;
+  padding-top: 30px;
+}
+
+.blackj-container {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+  background-image: url("images/bg.earth.jpg");
+  background-size: cover;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  height: fit-content;
+  width: auto;
+  max-width: 550px;
+  height: fit-content;
+  margin: 0 auto 0px auto;
+  border: solid black 2px;
+  border-radius: 30px;
+}
+
+.b-jack {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+.blackj-container p {
+  color: red;
+  text-decoration-line: underline;
+}
+
+.b-button {
+  color: #016f32;
+  margin: 5px 0;
+  width: 150px;
+  background: goldenrod;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+}
